@@ -1,4 +1,4 @@
-#python3 Drawing on screen
+#python3 Drawing on screen using the Python's turtle library
 
 import turtle
 from turtle import Turtle, Screen
